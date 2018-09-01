@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{05CBBC5E-14C8-579F-A475-B333C8D1B565}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SelectedHerbs.cs">
+    <Files>
+      <File FileName="Assets/ButtonPressed.cs" Line="36" Column="10" />
+      <File FileName="Assets/MovePanels.cs" Line="25" Column="37" />
+      <File FileName="Assets/SelectedHerbs.cs" Line="48" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
