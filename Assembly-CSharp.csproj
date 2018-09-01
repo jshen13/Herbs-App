@@ -62,7 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ButtonPressed.cs" />
-    <Compile Include="Assets\MovePanels.cs" />
+    <Compile Include="Assets\Group1.cs" />
+    <Compile Include="Assets\GroupDisplayMove.cs" />
+    <Compile Include="Assets\Search.cs" />
     <Compile Include="Assets\SelectedHerbs.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/jeffreyshen/Herbs Finder App/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
