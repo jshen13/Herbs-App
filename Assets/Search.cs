@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Search : MonoBehaviour {
     public List<GameObject> Buttons = new List<GameObject>();
     public InputField input;
+    public GameObject scrollView;
 
     //On input field text changed:
 
@@ -40,5 +41,11 @@ public class Search : MonoBehaviour {
             
             }
         }
+    }
+    public void showOptions(){
+        scrollView.SetActive(true);
+    }
+    public void hideOptions(){
+        scrollView.SetActive(false);
     }
 }

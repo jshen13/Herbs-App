@@ -6,7 +6,7 @@
       <File FileName="Assets/SelectedHerbs.cs" Line="48" Column="45" />
       <File FileName="Assets/Group1.cs" Line="29" Column="27" />
       <File FileName="Assets/GroupDisplayMove.cs" Line="26" Column="39" />
-      <File FileName="Assets/Search.cs" Line="12" Column="16" />
+      <File FileName="Assets/Search.cs" Line="36" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
